@@ -1,0 +1,11 @@
+---
+name: sample
+description: gql File upload
+basePath: /gql/data
+openApiSpec: sample.gql
+environmentSpec: Dev
+authMethod: none
+responseCache:
+  timeDuration: 23
+schemes: []
+routes: []
